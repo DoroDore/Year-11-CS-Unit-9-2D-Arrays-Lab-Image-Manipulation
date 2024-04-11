@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="65557ac9-effe-4032-98d9-b67ae953d01e" name="Changes" comment="Added APImage, ImageFieFilter, ImagePanel, and Pixel classes." />
+    <list default="true" id="65557ac9-effe-4032-98d9-b67ae953d01e" name="Changes" comment="Added APImage, ImageFieFilter, ImagePanel, and Pixel classes.">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/ImageManipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/ImageManipulation.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,23 +27,35 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2MM3ocmtvGquyyyxcR5qJ1Cw3R5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ImageManipulation.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images/src" />
@@ -44,7 +63,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MathStuff">
+  <component name="RunManager" selected="Application.ImageManipulation">
     <configuration name="ImageManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="code.ImageManipulation" />
       <module name="Year-11-CS-Unit-8-2D-Arrays-Lab-Image-Manipulation" />
@@ -68,11 +87,18 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ImageManipulation" />
         <item itemvalue="Application.MathStuff" />
         <item itemvalue="Application.Vehicle" />
-        <item itemvalue="Application.ImageManipulation" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -82,6 +108,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677563803459</updated>
+      <workItem from="1710722346621" duration="322000" />
+      <workItem from="1710723095076" duration="35000" />
+      <workItem from="1710897445029" duration="3442000" />
+      <workItem from="1711169997298" duration="2083000" />
+      <workItem from="1711411331754" duration="11000" />
+      <workItem from="1711417309097" duration="2099000" />
+      <workItem from="1711427303458" duration="90000" />
+      <workItem from="1711598688823" duration="19000" />
+      <workItem from="1711598862458" duration="2147000" />
+      <workItem from="1712578042726" duration="1338000" />
+      <workItem from="1712581864484" duration="3881000" />
+      <workItem from="1712621271976" duration="2834000" />
+      <workItem from="1712719219230" duration="1641000" />
+      <workItem from="1712797815886" duration="1823000" />
+      <workItem from="1712799782102" duration="235000" />
+      <workItem from="1712800092834" duration="723000" />
     </task>
     <task id="LOCAL-00001" summary="Added method stubs in ImageManipulation class.">
       <created>1677570555045</created>
@@ -114,6 +156,9 @@
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -129,5 +174,15 @@
     <MESSAGE value="Added method stubs in ImageManipulation class." />
     <MESSAGE value="Added APImage, ImageFieFilter, ImagePanel, and Pixel classes." />
     <option name="LAST_COMMIT_MESSAGE" value="Added APImage, ImageFieFilter, ImagePanel, and Pixel classes." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
